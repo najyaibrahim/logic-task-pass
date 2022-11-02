@@ -1,0 +1,14 @@
+the answer of first quation # using replace():  
+ example code to remove 
+stringe = "flexible"
+s2 = stringe.replace("b","p")
+print(s2)
+//output _ "flexiple?" 
+  and the #code use translate():
+  s = "flexible"
+  x = "b"
+  y = "p"
+  table = s.maketrans(x, y)
+  print(s.translate(table))
+ 
+ #output// "Flexiple"
